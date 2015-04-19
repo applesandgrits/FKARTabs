@@ -1,0 +1,22 @@
+/* Empty. Add your own CSS if you like */
+.frame_look_feel.custom_color {
+    background-color: #FFFFFF;
+}
+html { height:100% }
+body { height:100%; width:100%; margin:0; display:table;}
+.header_bar { height=100%}
+.iframe_container {height:85%; width:auto display:table-cell; }
+iframe { height=100% display:table-cell; }
+
+
+.header {
+    background-color:white;
+    color:white;
+    height:20px
+} 
+
+.footer {
+    background-color:white;
+    color:white;
+    height:60px
+} 
