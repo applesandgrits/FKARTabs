@@ -24,3 +24,17 @@ iframe { height=100% display:block;}
 [nav-view-transition][nav-view-direction] {
 background-color: transparent;
 }
+
+.splash {
+    background-attachment: scroll;
+    background-color: #ffffff; 
+    background-image: url(../img/ionic.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 450px auto;
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
